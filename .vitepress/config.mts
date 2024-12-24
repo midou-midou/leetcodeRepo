@@ -2,14 +2,12 @@ import { defineConfig } from 'vitepress'
 import VitePluginVitePressAutoSidebar from 'vite-plugin-vitepress-auto-sidebar'
 
 const baseDir = 'leetcodeRepo'
-const outDir = '../public'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "midou-code",
   description: "算法code",
   srcDir: baseDir,
-  outDir: outDir,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
