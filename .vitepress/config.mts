@@ -7,6 +7,7 @@ const baseDir = 'leetcodeRepo'
 export default defineConfig({
   title: "midou-code",
   description: "算法code",
+  base: `/${baseDir}/`,
   srcDir: baseDir,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
