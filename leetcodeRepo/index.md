@@ -16,7 +16,7 @@ hero:
       link: /中级题/加一.md
     - theme: alt
       text: 高级题
-      link: /高级题/加一.md
+      link: /高级题/分发糖果.md
 
 
 ---
