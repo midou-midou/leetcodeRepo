@@ -13,8 +13,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '基础题', link: '/基础题/加一.md' },
-      { text: '中级题', link: '/中级题' },
-      { text: '高级题', link: '/高级题' }
+      { text: '中级题', link: '/中级题/岛屿数量.md' },
+      { text: '高级题', link: '/高级题/分发糖果.md' }
     ],
 
     socialLinks: [
